@@ -1,0 +1,12 @@
+{
+    "javascript.validate.enable": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+
+    "react-native-tools.projectRoot": "./app",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "sdkVersion": "32.0.0",
+    "name": "react-native-expo-kotlin-typescript",
+    "icon": "src/main/assets/images/icon.png",
+    "version": "1.0.0",
+    "slug": "react-native-expo-kotlin-typescript"
+  }
+}

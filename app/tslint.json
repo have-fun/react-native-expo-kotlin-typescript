@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "tslint:recommended"
+  ],
+  "rules": {
+    "max-line-length": [true, {"limit": 180, "ignore-pattern": "^import |^export {(.*?)}"}],
+    "missing-jsdoc": false,
+    "newline-before-return": false,
+    "no-return-await": true,
+    "object-literal-sort-keys": false,
+    "interface-name": false,
+    "no-console": false,
+    "no-empty": false,
+    "no-empty-interface": false,
+    "ordered-imports": false,
+    "member-access": false,
+    "no-reference": false,
+    "no-namespace": false
+  }
+}
