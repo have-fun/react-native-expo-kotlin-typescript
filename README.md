@@ -6,7 +6,7 @@ This project is a simple Expo-based React Native app using TypeScript (for UI te
 
 This project is pre-configured for both IntelliJ and Visual Studio Code.
 
-#### IntellJ
+#### IntelliJ
 - In Preferences -> Language & Frameworks -> Node.js and NPM,  configure the Node interpreter.
 - Use "Start" Run/Debug configuration to run or debug the app.
 - Follow the onscreen instructions from the Expo tool.
